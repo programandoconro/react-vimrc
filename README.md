@@ -28,5 +28,6 @@ ctrl+shift+l: code prettifier (for js,jsx,css files)
 F12 / go to definition for php
 ctrl+o: go to prev file
 ctrl+i: go to next file
+F3: change between tabs
 ```
 <img src="image.png" />
